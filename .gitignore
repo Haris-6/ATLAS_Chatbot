@@ -1,0 +1,10 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+.vscode/
+.deploy-settings.json
+atlas-deploy.zip
+teams_package/
+atlas-teams.zip
